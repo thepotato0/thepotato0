@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning python<br>💬 no projects yet<br>💬 that was it (:<br><br><br>
+🌱 I’m currently learning linux<br>💬 no projects yet<br>💬 that was it (:<br><br><br>
 
 
 ## 🌐 Socials:
