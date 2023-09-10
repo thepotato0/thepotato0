@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning how to be alive lol<br>💬 no projects yet<br>💬 that was it (:<br><br><br>
+🌱 I’m currently learning how to be alive lol<br>💬i have only 1 project<br>💬 that was it (:<br><br><br>
 
 
 ## 🌐 Socials:
