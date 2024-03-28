@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning how to write clean python code <br>💬im making a download manager<br>💬 that was it (:<br><br><br>
+🌱 I’m currently learning how to write clean python code
 
 
 ## 🌐 Socials:
