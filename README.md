@@ -5,7 +5,6 @@ Fork on GitHub0
 <h1 align="center">Hi 👋, I'm potato</h1>
 <h3 align="center">A passionate backend developer from Iran <: </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetomato0&label=Profile%20views&color=0e75b6&style=flat" alt="thetomato0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetomato0" alt="thetomato0" /></a> </p>
 
