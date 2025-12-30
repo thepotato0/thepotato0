@@ -1,1 +1,7 @@
-<h3 align="center">idk what to put here</h3>
+# Tech stack
+## Languages:
+Python - C - C# 
+## Framworks:
+Twilio - Numpy - Praw - Panda - Json - Pygame - yagmail - Notifypy - JekylL - Logging - Pystray
+## Other:
+Vscode - Libresprite - windows cmd -  Scoop - Wallpunch vpn - Godot - Scratch - Librewolf
