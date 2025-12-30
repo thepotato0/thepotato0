@@ -1,4 +1,4 @@
-#Tech stack
+# Tech stack
 
 ## Languages:
 Python - C - C# 
