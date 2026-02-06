@@ -7,5 +7,5 @@ Twilio - Numpy - Praw - Panda - Json - Pygame - Yagmail - Notifypy - JekylL - Lo
 ## Other:
 Vscode - Libresprite - windows cmd -  Scoop - Wallpunch vpn - Godot - Scratch - Librewolf
 
-Email: kiokio5252@gmail.com
+Email: thepotato0@proton.me
 Matrix: @thepotato0:matrix.org
