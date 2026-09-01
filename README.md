@@ -1,5 +1,3 @@
-_"Talk is cheap. Show me the code"_
-
 # Get in contact
 Email: thepotato0@proton.me
 
